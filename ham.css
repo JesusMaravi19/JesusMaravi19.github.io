@@ -1,0 +1,47 @@
+.nombre{
+    text-align: center; 
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.hola{
+  font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bienvenida{
+    background-color: bisque;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.his{
+    margin-left: 5%;
+    
+    font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ht{
+    background-color: ghostwhite;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.ca{
+    margin-left: 10%;
+    font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.re{
+    margin-left: 15%;
+}
+.pro{
+    margin-left: 10%;
+    font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.mociones{
+    margin-left: 15%;
+}
